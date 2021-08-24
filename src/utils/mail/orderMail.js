@@ -80,7 +80,7 @@ const orderMail = (options) => {
                                     Join the Community
                                 </div>
                                 <div>
-                                    <th align="left"
+                                    <div 
                                         style="font-weight:normal;text-align:left;display:block;width:100%;box-sizing:border-box;vertical-align:top"
                                         width="140">
                                         <table cellpadding="0" cellspacing="0" style="float:none;margin:0 auto">
@@ -132,7 +132,7 @@ const orderMail = (options) => {
                                                 </tr>
                                             </tbody>
                                         </table>
-                                    </th>
+                                    </div>
                                 </div>
                             </div>
                         </div>
